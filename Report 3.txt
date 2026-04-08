@@ -1,0 +1,88 @@
+Team Members and Contributions:
+
+1. Sahil Kumar Soni:
+
+**Contribution:**
+
+* Designed overall project architecture and workflow
+* Developed JavaFX UI:
+  * Login Page
+  * Register Page
+  * Doctor Dashboard
+* Implemented:
+  * Add/Delete Patient functionality
+  * Search feature
+  * TableView integration
+* Developed OPD Slip generation system
+* Integrated UI with backend logic
+
+---
+
+2. Devraj Srivastava:
+
+**Contribution:**
+
+* Designed MySQL database schema
+* Created tables:
+  * `users`
+  * `patients`
+* Defined relationships and constraints
+* Ensured efficient data storage structure
+* Handled database setup and configuration
+
+---
+
+3. Tariq Sheikh:
+
+**Contribution:**
+
+* Implemented JDBC connectivity
+* Developed DAO classes:
+  * `UserDAO`
+  * `PatientDAO`
+* Wrote SQL queries:
+  * Insert, Select, Delete operations
+* Managed data flow between application and database
+* Handled exception management
+
+---
+
+4. Prashant Raj:
+
+**Contribution:**
+
+* Designed user interface styling and layout
+* Implemented chart visualization (BarChart)
+* Improved UI aesthetics using JavaFX CSS
+* Developed Patient Dashboard interface
+* Worked on responsiveness and usability
+
+---
+
+5. Hitesh Kumar:
+
+**Contribution:**
+
+* Tested complete application functionality
+* Identified and fixed bugs
+* Verified database operations and UI flow
+* Ensured smooth navigation between screens
+* Assisted in module integration and final deployment
+
+---
+
+Team Collaboration:
+
+* All team members actively participated in planning and discussions
+* Tasks were divided based on expertise
+* Regular reviews ensured code quality
+* Issues were resolved collaboratively
+* Integration was done step-by-step for stability
+
+---
+
+Conclusion:
+
+The project was successfully completed through effective teamwork and proper distribution of responsibilities. Each member contributed significantly to different modules, resulting in a fully functional healthcare system with both monitoring and management capabilities.
+
+---

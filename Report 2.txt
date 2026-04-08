@@ -1,0 +1,98 @@
+Objectives of the Project:
+
+The main objectives of this project are:
+
+1. To develop a **user-friendly healthcare management system** using Java.
+2. To implement **secure login and registration** for Doctor and Patient roles.
+3. To enable doctors to **manage patient records efficiently**.
+4. To provide **real-time patient monitoring dashboard** with data visualization.
+5. To generate an **automatic OPD slip** with patient and treatment details.
+6. To integrate **database connectivity** for persistent data storage.
+7. To design a **multi-window JavaFX application** with smooth navigation.
+8. To apply concepts of **Advanced Java Programming** in a real-world system.
+
+---
+
+Outcomes of the Project:
+
+After successful completion of this project, the following outcomes are achieved:
+
+1. A fully functional **GUI-based healthcare application** is developed.
+2. Users can **register and login securely** using database authentication.
+3. Doctors can:
+   * Add patient details (Name, Age, Disease, Medicine)
+   * Delete records
+   * Search patients
+   * View data in table and chart form
+4. Patients can view their records through a **separate dashboard**.
+5. An **automatic OPD slip** is generated after patient entry.
+6. Data is stored and retrieved efficiently using **MySQL database**.
+7. The system demonstrates **real-world hospital workflow simulation**.
+8. Improved understanding of **JavaFX, JDBC, and event-driven programming**.
+
+---
+
+Advanced Java Programming Concepts Used:
+
+The project uses the following Advanced Java concepts:
+
+🔹 1. GUI Development
+
+* JavaFX framework
+* Scene, Stage, Layouts (VBox, HBox, GridPane)
+
+🔹 2. Event Handling
+
+* Button click events (`setOnAction`)
+* Mouse events (table selection)
+* Listener (`textProperty().addListener`)
+
+🔹 3. JDBC (Java Database Connectivity)
+
+* Database connection using `DriverManager`
+* SQL execution using `PreparedStatement`
+* Data retrieval using `ResultSet`
+
+🔹 4. Multilayer Architecture (MVC Pattern)
+
+* Model → `Patient`, `User`
+* View → JavaFX UI
+* Controller → Event logic
+* DAO → Database operations
+
+🔹 5. Exception Handling
+
+* Try-catch blocks for database and UI operations
+
+🔹 6. Collections Framework
+
+* ArrayList
+* ObservableList (JavaFX)
+
+🔹 7. Data Binding
+
+* TableView and TableColumn mapping
+* Property classes (`SimpleStringProperty`, `SimpleIntegerProperty`)
+
+🔹 8. Multithreading (Basic Concept)
+
+* JavaFX Application Thread handling UI updates
+
+🔹 9. Object-Oriented Programming
+
+* Encapsulation
+* Constructors
+* Abstraction
+
+🔹 10. Dynamic UI Handling
+
+* Generating OPD slip window dynamically
+* Switching between multiple scenes
+
+---
+
+Conclusion:
+
+This project successfully demonstrates the application of Advanced Java concepts in building a real-time healthcare system. It combines GUI design, database integration, and event-driven programming to create a functional and scalable application.
+
+---
